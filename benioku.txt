@@ -1,0 +1,8 @@
+Uygulamada eğer birden fazla düğüm atlayarak gezinmek isterseniz gezinme komutlarını birden fazla kez yazabilirsiniz.
+Örneğin ilk düğümde iken 3 düğüm ilerleyerek 4. düğüme gelmek istiyorsanız 3 defa 'ddd' yazıp enter'a basınız. Aynı şekilde geri gitme komutunu da 'aaa' şeklinde yazabilirsiniz.
+
+Birden fazla komut çalıştırmak için komutları sırasıyla yazabilirsiniz.
+Örneğin bir sonraki düğüme gidip silmesini istiyorsanız 'ds' yazıp enter'a basınız.
+Örneğin iki sonraki düğüme gidip aynalamasını istiyorsanız 'ddw' yazıp enter'a basınız.
+
+Eğer en baştaki düğümde sola gidip silme yada aynalama komutu çalıştırmak isterseniz o düğümden önceki düğüm olmayacağı için mevcuttaki düğüme işlem yapacaktır. Aynı şekilde sondaki düğümde sağa gitme işleminde de geçerlidir.
